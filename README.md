@@ -3,7 +3,8 @@ an simple&dirty example of python background jobs with bash scripting
 
 try this:
 
-*chmod +x ./job.sh*
+*chmod +x ./job.sh*  
+
 *python example.py*
 
 - example.py will call job.sh without outputs 
